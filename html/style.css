@@ -1,6 +1,9 @@
 .song-title {
   font-style: italic;
 }
+.text {
+  font-size: 14px;
+}
 .verse-1 {
   padding-bottom: 15px;
 }
